@@ -1,0 +1,127 @@
+body{
+margin:0;
+width:100%;
+height:100vh;
+background:black
+}
+
+.btn{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+
+	}
+	.btn1{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:80px;
+	}
+	.btn2{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:136px;	
+	}
+	.btn3{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:199px;
+	}
+	.btn4{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:250px;
+	}
+	.btn5{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:316px;
+	}
+	.btn6{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:378px;
+	}
+	.btn7{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:427px;
+	}
+	.btn8{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:490px;
+	}
+	.btn9{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:552px;
+	}
+	.btn10{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:663px;
+	}
+	.btn11{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:803px;
+	}
+	.btn12{
+		position:absolute;
+		z-index:1;
+		font-size:12px;
+		color:white;
+		border: 1px solid white;
+		background:black;
+		left:957px;
+	}
+	canvas{
+		z-index:0;
+	}
